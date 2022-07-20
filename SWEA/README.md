@@ -6,7 +6,7 @@
 
 
 
-## D1
+## 💠D1
 
 | 번호   | 제목                                                         | 메모 |
 | ------ | ------------------------------------------------------------ | ---- |
@@ -26,4 +26,16 @@
 | 2047번 | [신문 헤드라인](https://github.com/JeongJinGan/Algorithm/blob/master/SWEA/D1/2047.py) |      |
 | 2063번 | [중간값 찾기](https://github.com/JeongJinGan/Algorithm/blob/master/SWEA/D1/2063.py) |      |
 | 2050번 | [알파벳을 숫자로 변환](https://github.com/JeongJinGan/Algorithm/blob/master/SWEA/D1/2050.py) |      |
+
+
+
+## 💠D2
+
+| 번호   | 제목                                                         | 메모                  |
+| ------ | ------------------------------------------------------------ | --------------------- |
+| 1284번 | [수도 요금 경쟁](https://github.com/JeongJinGan/Algorithm/blob/master/SWEA/D2/1284.py) | print에서도 min()사용 |
+| 1986번 | [지그재그 숫자](https://github.com/JeongJinGan/Algorithm/blob/master/SWEA/D2/1986.py) |                       |
+|        |                                                              |                       |
+
+
 
