@@ -33,9 +33,9 @@
 
 | 번호   | 제목                                                         | 메모                                  |
 | ------ | ------------------------------------------------------------ | ------------------------------------- |
-| 1284번 | [수도 요금 경쟁](https://github.com/JeongJinGan/Algorithm/tree/master/SWEA/D2/1284.%20%EC%88%98%EB%8F%84%20%EC%9A%94%EA%B8%88%20%EA%B2%BD%EC%9F%81) | print에서도 min()사용                 |
+| 1284번 | [수도 요금 경쟁](https://github.com/JeongJinGan/Algorithm/tree/master/SWEA/D2/1284.%20%EC%88%98%EB%8F%84%20%EC%9A%94%EA%B8%88%20%EA%B2%BD%EC%9F%81)[수도](./D2/1284. 수도 요금 경쟁) | print에서도 min()사용                 |
 | 1986번 | [지그재그 숫자](https://github.com/JeongJinGan/Algorithm/tree/master/SWEA/D2/1986.%20%EC%A7%80%EA%B7%B8%EC%9E%AC%EA%B7%B8%20%EC%88%AB%EC%9E%90) |                                       |
-| 1288번 | [새로운 불면증 치료법](https://github.com/JeongJinGan/Algorithm/tree/master/SWEA/D2/1288.%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B6%88%EB%A9%B4%EC%A6%9D%20%EC%B9%98%EB%A3%8C%EB%B2%95) | 다시 볼 필요있음 생각하기 좀 여려웠음 |
+| 1288번 | [새로운 불면증 치료법](https://github.com/JeongJinGan/Algorithm/tree/master/SWEA/D2/1288.%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B6%88%EB%A9%B4%EC%A6%9D%20%EC%B9%98%EB%A3%8C%EB%B2%95) | 다시 볼 필요있음 생각하기 좀 어려웠음 |
 | 1926번 | [간단한 369게임](https://github.com/JeongJinGan/Algorithm/tree/master/SWEA/D2/1926.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20369%EA%B2%8C%EC%9E%84) |                                       |
 | 1945번 | [간단한 소인수분해](https://github.com/JeongJinGan/Algorithm/tree/master/SWEA/D2/1945.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4) |                                       |
 | 1948번 | [날짜 계산기](https://github.com/JeongJinGan/Algorithm/tree/master/SWEA/D2/1948.%20%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0%EA%B8%B0) |                                       |
