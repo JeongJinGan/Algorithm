@@ -14,3 +14,35 @@ for i in range(n):
 dic_ = sorted(dic_.keys(), reverse=True) # 역순으로(이름만)
 for j in dic_:
     print(j)
+
+
+
+# 코드리뷰
+# N = int(input())
+# logs = dict()
+# for i in range(N):
+#     key, value  = input().split()
+#     logs[key] = value 
+
+# # print(logs)
+
+# # logs["baha"] = 'enter'
+# # logs["askr"] = 'enter'
+# # logs["baha"] = 'leave'
+# # logs["artem"] = 'enter'
+
+# # print(logs)
+
+# list_ = []
+# for key in logs:
+#     # print(key)
+#     # value가 enter인 key를 찾아서 리스트에 저장
+#     if logs[key] == 'enter':
+#         list_.append(key)
+
+# # print(list_)
+# list_.sort(reverse=True)
+# # print(list_)
+# for name in list_:
+#     print(name)
+
