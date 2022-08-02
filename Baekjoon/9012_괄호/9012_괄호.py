@@ -20,9 +20,8 @@ import sys
 
 sys.stdin = open("9012_괄호.txt", "r")
 
-T = int(input())
 list_ = []
-for i in range(T):
+for i in range(int(input())):
     ps = input()
     stack = list(ps)
 
