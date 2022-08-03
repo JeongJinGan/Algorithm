@@ -31,3 +31,9 @@
 [BOJ-11652(카드)](https://www.acmicpc.net/problem/11652)
 
 [BOJ-10546(배부른_마라토너)](https://www.acmicpc.net/problem/10546)
+
+
+
+# 주석(설명) 작성하기
+
+BOJ - 2167 (2차원 배열의 합)
